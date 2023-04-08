@@ -1,12 +1,8 @@
 Olá![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Kelvin S. Vayda 
-=========================================================================================================================================== 
-Analista de TI Jr
------------------
-Como estudante de Engenharia da Computação, estou empenhado em aprofundar meu conhecimento e habilidades em uma área que considero fascinante e em constante evolução. Acredito que a engenharia da computação tem um grande potencial para resolver problemas complexos e tornar o mundo um lugar melhor. Tenho me dedicado a meus estudos e me esforçado para absorver o máximo de informações e conhecimentos possíveis. Estou animado em aprender sobre design, desenvolvimento e integração de sistemas computacionais e eletrônicos, e estou confiante de que essas habilidades me prepararão para uma carreira bem sucedida nesta área. Aberto a novas experiências que podem me ajudar a expandir minha compreensão da engenharia da computação e aprimorar minhas habilidades. Estou comprometido em seguir minha paixão e fazer contribuições expressivas nesta área emocionante e desafiadora. * 🌍 Estou baseado em São Paulo * 🧠 Estou aprendendo Python / Flask * ⚡ Sou músico e apaixonado pela música.
-
-### Habilidades
-
-Olá![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Kelvin S. Vayda ========== ==================================================== ==================================================== ========================= Analista de TI Jr ----------------- Como estudante de engenharia da competir, estou empenhado em aprofundar meu conhecimento e habilidades em uma área que considero fascinante e em constante evolução. Acredito que a engenharia da computação tem um grande potencial para resolver problemas complexos e tornar o mundo um lugar melhor. Tenho me dedicado a meus estudos e me esforçado para absorver o máximo de informações e conhecimentos possíveis. Estou animado em aprender sobre design, desenvolvimento e integração de sistemas computacionais e eletrônicos, e estou confiante de que essas habilidades me prepararão para uma carreira bem sucedida nesta área. Aberto a novas experiências que podem me ajudar a expandir minha compreensão da engenharia da computação e aprimorar minhas habilidades. Estou comprometido em seguir minha paixão e fazer contribuições expressivas nesta área emocionante e desafiadora. * 🌍 Estou baseado em São Paulo * 🧠 Estou aprendendo Python / Flask * ⚡ Sou músico e apaixonado pela música.
+========================================================================================================================================== 
+Analista de TI Jr 
+----------------- 
+Como estudante de engenharia da competir, estou empenhado em aprofundar meu conhecimento e habilidades em uma área que considero fascinante e em constante evolução. Acredito que a engenharia da computação tem um grande potencial para resolver problemas complexos e tornar o mundo um lugar melhor. Tenho me dedicado a meus estudos e me esforçado para absorver o máximo de informações e conhecimentos possíveis. Estou animado em aprender sobre design, desenvolvimento e integração de sistemas computacionais e eletrônicos, e estou confiante de que essas habilidades me prepararão para uma carreira bem sucedida nesta área. Aberto a novas experiências que podem me ajudar a expandir minha compreensão da engenharia da computação e aprimorar minhas habilidades. Estou comprometido em seguir minha paixão e fazer contribuições expressivas nesta área emocionante e desafiadora. * 🌍 Estou baseado em São Paulo * 🧠 Estou aprendendo Python / Flask * ⚡ Sou músico e apaixonado pela música.
 
 ### Habilidades
 
@@ -39,19 +35,3 @@ com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.sv
 <a href="http://www.github.com/KelvinVayda"><img src="https://github-readme-stats.vercel.app/api?username=KelvinVayda&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color =ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="KelvinVayda's GitHub stats" /></a>
 
 <a href="http://www.github.com/KelvinVayda"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KelvinVayda&stroke=ffffff&background=1c1917&ring=0891b2&fire= 0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-### Redes Sociais
-
-<p align="left"> </p> <a href="https://www.github.com/KelvinVayda" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main /public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/kelvinsoares_23" target="_blank" rel ="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </a> <a href="https://www.linkedin.com/in/kelvin-soares-vayda-97a311153/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent. com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-
-### Redes Sociais
-
-<p align="left"> </p> <a href="https://www.github.com/KelvinVayda" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/kelvinsoares_23" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kelvin-soares-vayda-97a311153/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-
-### Distintivos
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/KelvinVayda"><img src="https://github-readme-stats.vercel.app/api?username=KelvinVayda&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="KelvinVayda's GitHub stats" /></a>
-
-<a href="http://www.github.com/KelvinVayda"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KelvinVayda&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
